@@ -17,7 +17,7 @@ __Contributors__: Nathan Yao, Zach Headington, Justin Schoch, CJ Ackler
 - __login__ and __registration__ (of course)
 - a __forgot password__ option
 
-<img src="" width="300" height="614" />
+<img src="https://github.com/nathanhyao/Enterprise-Resource-Planning-App/blob/main/overview-gifs/demo1-login-registration-pwreset.gif" width="300" height="614" />
 
 ---
 
@@ -29,7 +29,7 @@ __Contributors__: Nathan Yao, Zach Headington, Justin Schoch, CJ Ackler
 - the __roster__ lists all team members
 - update account details in __settings__
 
-<img src="" width="300" height="614" />
+<img src="https://github.com/nathanhyao/Enterprise-Resource-Planning-App/blob/main/overview-gifs/demo2-fundamental-features.gif" width="300" height="614" />
 
 ---
 
@@ -37,7 +37,7 @@ __Contributors__: Nathan Yao, Zach Headington, Justin Schoch, CJ Ackler
 - __create tasks__ that will appear on the team __task board__
 - self-assign tasks or mark them as complete
 
-<img src="" width="300" height="614" />
+<img src="https://github.com/nathanhyao/Enterprise-Resource-Planning-App/blob/main/overview-gifs/demo3-task-board.gif" width="300" height="614" />
 
 ---
 
@@ -47,7 +47,7 @@ __Contributors__: Nathan Yao, Zach Headington, Justin Schoch, CJ Ackler
 - __create events__ by selecting a start time, end time, and the assignee
 - the __shift trade__ feature lets workers easily swap shifts with each other
 
-<img src="" width="300" height="614" />
+<img src="https://github.com/nathanhyao/Enterprise-Resource-Planning-App/blob/main/overview-gifs/demo4-calendar-shift-trades.gif" width="300" height="614" />
 
 ---
 
@@ -55,7 +55,7 @@ __Contributors__: Nathan Yao, Zach Headington, Justin Schoch, CJ Ackler
 - __message and chat__ with teammates in real-time
 - send files and photos in chat rooms
 
-<img src="" width="300" height="614" />
+<img src="https://github.com/nathanhyao/Enterprise-Resource-Planning-App/blob/main/overview-gifs/demo5-chat-feature.gif" width="300" height="614" />
 
 ---
 
