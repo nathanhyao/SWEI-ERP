@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "61356375332",
+    "project_id": "shay-cea81",
+    "storage_bucket": "shay-cea81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61356375332:android:12a8c9909cd2d1d41587b1",
+        "android_client_info": {
+          "package_name": "com.example.shay_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61356375332-cgp7ph1h11gtbqo26gvmc0ojti2ot3c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7EC_Y_pHahGhU2jx7vC4lagJV85UOxZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61356375332-cgp7ph1h11gtbqo26gvmc0ojti2ot3c0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61356375332-ea5n84f8d6nbc8b62p7hfll50vj5hdro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shayApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

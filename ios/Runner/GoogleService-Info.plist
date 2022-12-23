@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>61356375332-ea5n84f8d6nbc8b62p7hfll50vj5hdro.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.61356375332-ea5n84f8d6nbc8b62p7hfll50vj5hdro</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjsxrtHQfVj3HL7XS9JW2Qw0FaR-7D3RE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>61356375332</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.shayApp</string>
+	<key>PROJECT_ID</key>
+	<string>shay-cea81</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shay-cea81.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:61356375332:ios:53b313481f6bde611587b1</string>
+</dict>
+</plist>
