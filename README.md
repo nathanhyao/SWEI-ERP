@@ -2,7 +2,7 @@
 
 ## _(called "Shay")_
 
-Team 22's CS 307 Project is a __team collaboration app / lightweight enterprise resource planning (ERP) software__
+A __team collaboration app / lightweight enterprise resource planning (ERP) software__
 
 Follows client-server architecture. The client uses Flutter. Server uses Flask and performs database queries to SQL Server.
 
